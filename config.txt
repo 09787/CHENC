@@ -1,0 +1,29 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxf7bccedd0f2b2157",
+# 公众号appSecret
+"app_secret": "a4c56dfefddac60f34334939b1280f87",
+# 模板消息id
+"template_id": 	"awM_ggeU52fya-jSlpASrRaMzlCx_zlVyMvYxYrmr-Q",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oEXF76M1HNk8_1KS0tz1XROu_chU","oEXF76KswC0lkVzA7XqBRmHZPV8o"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "f195cb0074154e5dabc12a1d15765757",
+# 天行数据apikey
+"tian_api": "18127b2a08d306a60a3849dde7dcbae8",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "虎丘区",
+# 生日1
+"birthday1": {"name": "陈志远", "birthday": "1998-09-19"},
+# 生日2
+"birthday2": {"name": "崔佳蕊", "birthday": "2001-02—14"},
+# 在一起的日子，格式同上
+"love_date": "2022-02-17",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "今天比昨天更爱你",
+# 金句英文
+"note_en": "Love you forever"
+}
